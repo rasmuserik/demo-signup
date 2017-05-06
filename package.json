@@ -14,5 +14,9 @@
   "repository": "github:solsort/demo-signup",
   "version": "0.0.1",
   "homepage": "http://demo-signup.solsort.com",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "mailcomposer": "^4.0.2",
+    "mailgun-js": "^0.10.1"
+  }
 }
