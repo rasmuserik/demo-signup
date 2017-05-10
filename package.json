@@ -6,13 +6,13 @@
     "test": "simple-javascript test"
   },
   "devDependencies": {
-    "simple-javascript": "*"
+    "simple-javascript": "^0.0.26"
   },
   "license": "MIT",
   "main": "lib.js",
   "unpkg": "dist.js",
   "repository": "github:solsort/demo-signup",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://demo-signup.solsort.com",
   "description": "",
   "dependencies": {
